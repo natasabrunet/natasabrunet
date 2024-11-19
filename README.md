@@ -126,4 +126,16 @@ I'm a passionate Frontend Developer dedicated to crafting beautiful and user-fri
 
 - **[E-commerce Store](https://www.yettel.rs)**: Developed a stunning Shopify store with a focus on user experience and conversion optimization.
 
+## Core skills!
+
+✔ React js / Next.js / TypeScript / Vue.js / Angular.js / Svelte.js <br>
+✔ HTML5 / CSS3 / Material UI / Bootstrap / Tailwind CSS  <br>
+✔ Figma / Adobe XD / Photoshop <br>
+✔ Node.js / Python(Django) / PHP(Laravel) <br>
+✔ Shopify / Webflow / WordPress <br>
+✔ Responsive Design / SEO & Performance Optimization <br>
+✔ AWS / AWS EC2 / S3 / Docker / Kubernetes <br>
+
+<br>
+
 Thank you for visiting my profile! 🌼💖
